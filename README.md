@@ -1,5 +1,5 @@
 # Real_estate_project
-This project tracks rent prices in different neighborhoods of San Francisco over the years. It displays the average price and the change over the years. The data also contains an interactive map displaying those neighborhoods
+This project tracks rent prices and sales prices in different neighborhoods of San Francisco over the years. It displays the average price and the change over the years. The data also contains an interactive map displaying those neighborhoods
 
 ## Average amount of housing units per year
 ![image](https://user-images.githubusercontent.com/79224741/117725623-619eee00-b1b3-11eb-9d90-012fce0314d4.png)
